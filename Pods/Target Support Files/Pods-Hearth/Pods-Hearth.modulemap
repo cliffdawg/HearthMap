@@ -1,0 +1,6 @@
+framework module Pods_Hearth {
+  umbrella header "Pods-Hearth-umbrella.h"
+
+  export *
+  module * { export * }
+}
